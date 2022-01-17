@@ -1,0 +1,30 @@
+.container {
+    margin: 0 auto;
+    max-width: 500px;
+    letter-spacing: 0.02em;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.heading {
+    letter-spacing: -0.05em;
+    color: #984;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav-link-item {
+    padding-right: 2rem;
+}
+
+.nav-link-text {
+    color: #333;
+}
