@@ -6,12 +6,12 @@ const IndexPage = () => {
     return (
         <Layout pageTitle="Home Page">
             <p>
-                Welcome to a digital journal of bicycles featured in video games.
+                A digital compendium of bicycles featured in video games.
             </p>
             <StaticImage
                 alt="Fallout 4: An early 20th century women's bicycle with full chainguard and
                 butchers front rack."
-                src="../images/fallout-4-videogame-bicycle.jpg"
+                src="../images/fallout-4-videogame-bicycle.webp"
             />
         </Layout>
     )
